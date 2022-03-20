@@ -1,19 +1,29 @@
+name: Scrape latest data
+
 on:
+  push:
+  workflow_dispatch:
   schedule:
     - cron:  '0 0 * * *' # Daily. Ref https://crontab.guru/examples.html
-name: Scrape smejdb data
+
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - name: Check out this repo
+      uses: actions/checkout@v2
     - name: Build
       run: npm install
     - name: Scrape
-      run: npm run action
+      run: npm run scrape
       # env:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
-    - uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date +"%Y-%m-%d %T")
+        git commit -m "Scrape on ${timestamp}" || exit 0
+        git push
