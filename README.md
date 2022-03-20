@@ -8,4 +8,4 @@ Just fetch `https://raw.githubusercontent.com/jankocian/smejdb/main/smejdb.json`
 - [SÚKL - Webové stránky s nelegálními nabídkami léčiv](https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv)
 - [ČOI - Rizikové e-shopy](https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/)
 
-*Github Actions scraping inspired by [swyx](https://www.swyx.io/github-scraping).*
+*Github Actions scraping inspired by [swyx](https://www.swyx.io/github-scraping) and [Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/).*
