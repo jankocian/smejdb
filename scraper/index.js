@@ -1,13 +1,3 @@
-/**
- * Sites to be scraped
- *
- * Implemented
- * - https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv
- * - https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/
- *
- * ToDo
- * -
- */
 const fs = require('fs')
 const path = require('path')
 const request = require('request-promise')
