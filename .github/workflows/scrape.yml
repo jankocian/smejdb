@@ -19,7 +19,7 @@ jobs:
       run: npm run scrape
       # env:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
-    - name: Commit and push
+    - name: Commit and push (only if there are changes)
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
