@@ -1,5 +1,5 @@
 # :poop: šmejDB
-Daily updated database of malicious junk-selling websites in the Czech Republic.
+Daily updated database of malicious junk-selling websites in the Czech Republic. [Have a look at the data](https://flatgithub.com/jankocian/smejdb/?filename=smejdb.json).
 
 ## How to use?
 Just fetch `https://raw.githubusercontent.com/jankocian/smejdb/main/smejdb.json`.
