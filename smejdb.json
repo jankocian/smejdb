@@ -1,5 +1,11 @@
 [
   {
+    "url": "leytitko.bestfitomedicine.com",
+    "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
+    "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
+    "sourceSlug": "sukl"
+  },
+  {
     "url": "lzkjjnnv.newhealthcares.com",
     "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
     "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
@@ -5244,13 +5250,6 @@
   },
   {
     "url": "eirlz.cz",
-    "description": "Ze stránek není nikde zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Česká obchodní inspekce před těmito stránkami spotřebitele varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "uzemneni.cz",
     "description": "Ze stránek není nikde zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Česká obchodní inspekce před těmito stránkami spotřebitele varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
