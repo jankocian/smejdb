@@ -1,5 +1,13 @@
 [
   {
+    "url": "dreampads.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje."
+  },
+  {
+    "url": "suprabotyshoppraha.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje."
+  },
+  {
     "url": "boilingsmart.com",
     "description": "Stránka láká spotřebitele k zázračnému zbohatnutí na kryptoměnách. Webové stránky uvádějí lživé a zastaralé informace o investici do kryptoměny či na burzách, aby to vypadalo, že investice se jedině vyplatí. S ohledem na nedostatečné informace na webu nejen o provozovateli, dále neinformování o právech pro spotřebitele, Česká obchodní inspekce vyplnění formuláře a případné zaplacení zde považuje za rizikové."
   },
@@ -4692,26 +4700,6 @@
     "description": "Podle spotřebitelských informací se na webu nacházejí aukce na drahé zboží, které se podle úvodní stránky zdají velmi výhodné, protože to vypadá, že se drahá elektronika dá pořídit za pár korun. Při reálném pokusu o výhře v anketě a následném nákupu velkého množství kreditů za reálné peníze (v řádu tisíců korun) se nedaří vyhrát v aukci, protože vždy je spotřebitel překonán někým jiným, pro něj neznámým (možná dokonce automatem). Aukce se tak nakonec zdají po praktickém vyzkoušení jako neférové, ani po desetitisícové částce se totiž nepodařilo aukci vyhrát. Stránky naplňují znaky rizikových webů. Jako provozovatel webu není uvedena žádná firma, žádné IČO. Z veřejně dostupné databáze národního registrátora domén je uveden jako vlastník údajná firma ze Seychel: Annaba Consulting Corp., Global Gateway 3039, Rue de la Perle, no Providence, Seychely. S ohledem na stížnosti spotřebitelů a nedostatečné informace na webu nejen o provozovateli Česká obchodní inspekce nákup zde považuje za rizikový."
   },
   {
-    "url": "cz.thesuganormlb.com",
-    "description": "Na webových stránkách je nabízen naprosto neznámý výrobek jako pomoc pacientům při cukrovce, který není registrovaný u Státního ústavu pro kontrolu léčiv. Jako prodejce je uvedena firma z Panamy, která se objevuje u celé řady rizikových e-shopů, viz níže. Spotřebitel je na tyto stránky odkazován ve spamech, které se šíří elektronickou poštou. Česká obchodní inspekce nákup zde považuje za rizikový."
-  },
-  {
-    "url": "pujcovnakaravanupetra.cz",
-    "description": "Název domény neodpovídá nabízenému zboží, tím je především obuv. Ceny jsou výrazně nižší, než je běžné. Kontaktní údaje Adress 1 a telefon 123456789 jsou nesmyslné, jedinou možností je platba předem kartou. Ze stránek není nikde zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Česká obchodní inspekce před těmito stránkami spotřebitele varuje."
-  },
-  {
-    "url": "gdgolomouc.cz",
-    "description": "Opuštěná doména, která původně sloužila k jinému účelu. Na webu je nabídka obuvi. Ze stránek není nikde zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Česká obchodní inspekce před těmito stránkami spotřebitele varuje."
-  },
-  {
-    "url": "tomfinreality.cz",
-    "description": "Opuštěná doména, která původně sloužila k jinému účelu. Na webu je nabídka obuvi. Ze stránek není nikde zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Česká obchodní inspekce před těmito stránkami spotřebitele varuje."
-  },
-  {
-    "url": "johankacieslarova.cz",
-    "description": "Opuštěná doména, která původně sloužila k jinému účelu. Ze stránek není nikde zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Česká obchodní inspekce před těmito stránkami spotřebitele varuje."
-  },
-  {
     "url": "cz.artro-vex.site",
     "description": "Na webových stránkách je nabízen naprosto neznámý výrobek proti potížím s klouby, který není registrovaný u Státního ústavu pro kontrolu léčiv. Jako prodejce je uvedena firma z Panamy, která se objevuje u celé řady rizikových e-shopů, viz níže. Kontaktem na webu je výhradně formulář a opět tel. číslo +420 234102147, které se také objevuje u celé řady rizikových e-shopů. Spotřebitel je na tyto stránky odkazován ve spamech, které se šíří elektronickou poštou. Česká obchodní inspekce nákup zde považuje za rizikový."
   },
@@ -4722,10 +4710,6 @@
   {
     "url": "luxusniparfemy.ecwid.com",
     "description": "Stránky provozuje společnost Global Distribution Solutions LLC se sídlem v USA, na stránkách nejsou řádné informace například o možnosti odstoupení od smlouvy. Podle spotřebitelských informací po objednání a zaplacení za čas nedorazí objednané zboží, dodáno je zboží výrazně nižší kvality, patrně padělky. Česká obchodní inspekce nákup zde považuje za rizikový."
-  },
-  {
-    "url": "doniksport.cz",
-    "description": "Na stránkách nejsou uvedeny žádné povinné informace o prodávajícím, obchodní podmínky zcela chybí. Podle spotřebitelských informací po zaplacení za zboží nikdo nereaguje, zboží nepřichází. Před nákupem na těchto stránkách Česká obchodní inspekce spotřebitele varuje."
   },
   {
     "url": "onlineslevy.de",
