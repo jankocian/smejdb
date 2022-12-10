@@ -1,5 +1,11 @@
 [
   {
+    "url": "cz2.landpld.com",
+    "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
+    "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
+    "sourceSlug": "sukl"
+  },
+  {
     "url": "obchodsezdravim.com",
     "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
     "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
@@ -934,6 +940,20 @@
     "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
     "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
     "sourceSlug": "sukl"
+  },
+  {
+    "url": "josefseibelvyprodej.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "botypikolinos.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
   },
   {
     "url": "topvision-cz.com",
@@ -8559,34 +8579,6 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "cz.thevalgosockslb.com",
-    "description": "Z webových stránek není zřejmé, kdo je provozovatelem e-shopu, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Obchodní podmínky zcela chybí. Na stránkách je pak nabízen pochybný výrobek s údajně zázračnou schopností léčby vbočeného palce. Kontaktem je výhradně formulář. Česká obchodní inspekce nákup zde považuje za rizikový.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "cz.thevalguspluslb.com",
-    "description": "Z webových stránek není zřejmé, kdo je provozovatelem e-shopu, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Obchodní podmínky zcela chybí. Na stránkách je pak nabízen pochybný výrobek s údajně zázračnou schopností léčby vbočeného palce. Kontaktem je výhradně formulář. Česká obchodní inspekce nákup zde považuje za rizikový.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "simplyacro.cz",
-    "description": "Jako provozovatel není uveden také nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "asicsboty.cz",
-    "description": "Dle spotřebitelský informací po objednávce dorazilo úplně jiné zboží nižší hodnoty. Na urgence nikdo nereaguje. Ze stránek není nikde zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Česká obchodní inspekce před těmito stránkami spotřebitele varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "kozni-keclikova.cz",
     "description": "Bývalý majitel domény stránky přestal využívat, jako volnou doménovou adresu si ji zaregistroval neznámý subjekt. Na stránkách je nabídka oblečení a obuvi. Po požadavku uhradit zboží předem kartou dle podání spotřebitele po zpalacení (částka činila 1650 Kč) žádné zboží nedorazí. Jako provozovatel není uveden také nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
@@ -8608,64 +8600,8 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "vervaracing.cz",
-    "description": "Na stránkách je nabídka obuvi, kabelek a oblečení. Po požadavku uhradit zboží předem kartou dle podání spotřebitele po zpalacení žádné zboží nedorazí. Jako provozovatel není uveden také nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "offroadales.cz",
-    "description": "Bývalý majitel domény stránky přestal využívat, jako volnou doménovou adresu si ji zaregistroval neznámý subjekt. Na stránkách je nabídka oblečení a obuvi. Po požadavku uhradit zboží předem kartou dle podání spotřebitele po zpalacení žádné zboží nedorazí. Jako provozovatel není uveden také nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "daverma.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "sasorirestaurant.cz",
-    "description": "Název domény neodpovídá nabízenému zboží, tím je především obuv. Bývalý majitel domény stránky přestal využívat, jako volnou doménovou adresu si ji zaregistroval anonymní subjekt. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "led-nakup-sk.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Spokojení zákazníci jsou smyšlení, protože pod fotkami všech údajně spokojených zákazníků jsou uvedena jiná jména (avšak stejné fotky), než ve české podobě stejného webu, tedy porovnáním led-nakup-cz.com a led-nakup-sk.com lehce zjistíme, že jde o smyšlené recenze spokojených zákazníků. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "led-nakup-cz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Spokojení zákazníci jsou smyšlení, protože pod fotkami všech údajně spokojených zákazníků jsou uvedena jiná jména (avšak stejné fotky), než ve slovenské podobě stejného webu, tedy porovnáním led-nakup-cz.com a led-nakup-sk.com lehce zjistíme, že jde o smyšlené recenze spokojených zákazníků. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "denta-seal.store",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "cz.theerofertillb.com",
-    "description": "Internetové stránky, na které se dostanete nejčastěji přes reklamu, slibují neznámý přípravek na rychlou erekci. Informace na stránkách jsou nedostatečné. Jako provozovatel je uvedena údajně firma z Panamy, která figuruje u mnoha jiných rizikových e-shopů, které nabízejí celou řadu dalších neznámých výrobků např. na hubnutí, proti kouření, prostatě, na klouby, srdeční hypertenzi a další. Výrobky nejsou schváleny Ústavem pro kontrolu léčiv, lékaři před těmito neznámými přípravky varují. Nákup zde za rizikový považuje také Česká obchodní inspekce.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "ceskylekarskyportal.com",
-    "description": "Stránky se prezentují jako lékařský portál, avšak nejde o žádný oficiální portál skutečných lékařů. Obchodní podmínky jsou zcela nedostatečné. Na stránkách je pak nabízen naprosto neznámý výrobek. Lékaři před tímto výrobkem spotřebitele varují. Česká obchodní inspekce nákup zde považuje za rizikový.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
@@ -8692,22 +8628,8 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "prozakladky.cz",
-    "description": "Bývalý majitel domény stránky přestal využívat, jako volnou doménovou adresu si ji zaregistroval anonymní subjekt. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "newsroom365.eu/health/zc/24/muscle/a/index.html",
     "description": "Webové stránky slibují naprosto neznámý přípravek na růst svalů a mladistvý vzhled. Na stránky jsou spotřebitelé odkazováni v reklamách. Výrobek je však zcela neznámý a mohl by mít i negativní vliv na lidské zdraví. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "cs.detectingvibrations.eu",
-    "description": "Z webových stránek není zřejmé, kdo je provozovatelem e-shopu, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Stránky se prezentují jako lékařský portál, avšak nejde o žádný oficiální portál skutečných lékařů. Obchodní podmínky jsou zcela nedostatečné. Na stránkách je pak nabízen pochybný výrobek na zlepšení sluchu. Prof. Jaromir Kosinský (odborník pro molekulární biologii), který výrobek prezentuje, neexistuje. Tento domnělý vědec nemá záznam v žádné seriózní instituci: na univerzitě, v nemocnici, ve specializovaném ústavu apod. Lékaři před tímto výrobkem spotřebitele varují. Česká obchodní inspekce nákup zde považuje za rizikový.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
