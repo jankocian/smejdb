@@ -1014,6 +1014,27 @@
     "sourceSlug": "sukl"
   },
   {
+    "url": "domainjk.com",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "xsykl.shop",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "siosail.shop",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
     "url": "neznost.shop",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. (V hlavičce je uvedeno BIBLOO, ačkoli o obchod bibloo.cz, který má českého provozovatele, konkrétně společnost Digital People, a.s., se nejedná.) Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
@@ -1436,13 +1457,6 @@
   {
     "url": "mxsania.com",
     "description": "Obchodní podmínky hrubě odporují právním předpisům. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "morekostek.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
@@ -4892,43 +4906,8 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "forcebtcofferway.com/knab/index.php",
-    "description": "Nezabezpečená platební brána, která je navázána na weby vytvářející dojem seriózních stránek nabízející až zázračné zbohatnutí. Ve skutečnosti slouží jen k zadání informací o platební kartě, kdy pak často dojde ke zneužití těchto údajů a spotřebitel je lstí připraven o své finance. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní. Před zadáním údajů na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "global-mentors.net/checkout/",
-    "description": "Nezabezpečená platební brána, která je navázána na weby vytvářející dojem seriózních stránek nabízející až zázračné zbohatnutí. Ve skutečnosti slouží jen k zadání informací o platební kartě, kdy pak často dojde ke zneužití těchto údajů a spotřebitel je lstí připraven o své finance. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní. Před zadáním údajů na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "www.beautyrefuse.com/zakladni-ekonomie-pate-vydani.php",
-    "description": "„Tváří“ podvodné reklamy na zbohatnutí přes kryptoměny je nově Jan Kraus. Následuje klasícký web tvářící se jako Novinky.cz na kterém je „exklusivní rozhovor pro iDnes.cz“. Stránka odkazuje čtenáře například na global-mentors.net/checkout/, kde se mnozí nechají přesvědčit k zaplacení 250 USD. Jedná se o podvodný web, před kterým ČOI varuje. Viz také: https://pooh.cz/2021/01/26/tvari-podvodne-reklamy-na-zbohatnuti-pres-kryptomeny-je-nove-jan-kraus/",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "secureifx.com/landers/CZ/v3/",
-    "description": "Stránka se otevře teprve po rozkliknutí spamu, který se šíří e-mailem. Stránka zneužívá jméno známého moderátora Leoše Mareše (viz https://pooh.cz/2021/04/17/leos-mares-zneuzivan-v-dalsim-kryptomenovem-podvodu-na-linkedin/). Článek na stránce hovoří o tom, že Leoš Mareš se objevil v pořadu „Interview ČT24“, který uváděl Daniel Takáč, a oznámil novou „mezeru v zákonech pro bohatství“, o které je prokázané, že z kohokoliv udělá za 3 až 4 měsíce milionáře. Stránka pak láká spotřebitele zadat údaje na anonymním webu primechnnls.com a investovat do zázračného zbohatnutí v kryptoměnách. Ve skutečnosti se jedná jen o získání citlivých údajů a peněz od důvěřivých lidí, nejedná se o žádnou zaručenou cestu výdělku, jak web prezentuje. Před těmito stránkami ČOI varuje, web je anonymní a údajně zaručené zbohatnutí se opírá o zkreslená fakta.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "worldandbitcoin.com",
     "description": "Stránka se otevře teprve po rozkliknutí spamu, který se šíří e-mailem. Stránka zneužívá jméno známého moderátora Leoše Mareše (https://www.coi.cz/euro-to-btc/). Článek na stránce hovoří o tom, že Leoš Mareš se objevil v pořadu „Interview ČT24“, který uváděl Daniel Takáč, a oznámil novou „mezeru v zákonech pro bohatství“, o které je prokázané, že z kohokoliv udělá za 3 až 4 měsíce milionáře. Stránka pak láká spotřebitele zadat údaje na anonymním webu primechnnls.com a investovat do zázračného zbohatnutí v kryptoměnách. Před těmito stránkami ČOI varuje, web je anonymní a údajně zaručené zbohatnutí se opírá o zkreslená fakta.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "redbean.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
@@ -4948,29 +4927,8 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "euro-to-btc.com/cz/",
-    "description": "Stránka se otevře teprve po rozkliknutí spamu, který se šíří e-mailem. Stránka zneužívá jméno známého moderátora Leoše Mareše (https://www.coi.cz/euro-to-btc/). Článek na stránce hovoří o tom, že Leoš Mareš se objevil v pořadu „Interview ČT24“, který uváděl Daniel Takáč, a oznámil novou „mezeru v zákonech pro bohatství“, o které je prokázané, že z kohokoliv udělá za 3 až 4 měsíce milionáře. Stránka pak láká spotřebitele zadat údaje na anonymním webu primechnnls.com a investovat do zázračného zbohatnutí v kryptoměnách. Před těmito stránkami ČOI varuje, web je anonymní a údajně zaručené zbohatnutí se opírá o zkreslená fakta.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "cblhota.cz",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Dále bylo šetřením u společnosti CZ.nic zjištěno, že doména cblhota.cz je evidována na osobu\nMichal Veselka, nar. 12.6.1987. Následnou lustrací ze strany Policie ČR však bylo zjištěno, že uvedená osoba není\nvůbec vedena v registru obyvatel. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "livingzone.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Doména livingzone.cz je registrována na osobu Sabine\nKohnke, bytem Fridrichsgaber Weg 124e, Norderstedt, 22848, Schleswig-Holstein, Německo, kdy\njejí totožnost nebylo možné ztotožnit. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "dovcalevne.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
@@ -4984,20 +4942,6 @@
   },
   {
     "url": "cz.nanovein.eu",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "nbdecstore.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "brikbrno.cz",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
