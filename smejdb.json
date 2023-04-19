@@ -1014,6 +1014,13 @@
     "sourceSlug": "sukl"
   },
   {
+    "url": "goddeal.cz",
+    "description": "Spotřebitel si stěžoval na odstoupení od kupní smlouvy v hodnotě 8450 Kč, nikdo zásilku nepřevzal, odstoupení neakceptoval. Osoba uvedená jako údajný prodávající však nemá platné živnostenské oprávnění. Česká obchodní inspekce informovala příslušný živnostenský odbor a před nákupem na těchto stránkách varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
     "url": "domainjk.com",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
@@ -8555,13 +8562,6 @@
   {
     "url": "krcma-marketa.cz",
     "description": "Na webu je nabídka obuvi. Jako provozovatel není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "lukasvalis.cz",
-    "description": "Na webu je nabídka obuvi, zaplacení pouze kartou. Stržena jiná – mnohem vyšší částka. Na reklamace nikdo nereaguje. Jako provozovatel není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
