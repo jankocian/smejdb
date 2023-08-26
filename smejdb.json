@@ -1002,6 +1002,20 @@
     "sourceSlug": "sukl"
   },
   {
+    "url": "try.articblast.co",
+    "description": "Ze stránek není zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Obchodní podmínky hrubým způsobem porušují právní předpisy České republiky. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "shop.vrama.eu",
+    "description": "Jako prodávající je v obchodních podmínkách uvedena společnost se sídlem v Anglii. Na hlavní stránce provozovatele je ale uvedeno IČO jiného podnikatele. Spotřebitel tak neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
     "url": "deeplin.shop",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
