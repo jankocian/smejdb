@@ -1026,6 +1026,13 @@
     "sourceSlug": "sukl"
   },
   {
+    "url": "botyvagabond.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
     "url": "nobulleshops.cz",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
@@ -1294,13 +1301,6 @@
   {
     "url": "try.articblast.co",
     "description": "Ze stránek není zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Obchodní podmínky hrubým způsobem porušují právní předpisy České republiky. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "shop.vrama.eu",
-    "description": "Jako prodávající je v obchodních podmínkách uvedena společnost se sídlem v Anglii. Na hlavní stránce provozovatele je ale uvedeno IČO jiného podnikatele. Spotřebitel tak neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
@@ -2202,29 +2202,8 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "keenlevne.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "goldengooseboty.cz",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "demoniaczeshop.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "obchod-feng-shui.cz",
-    "description": "Na stránkách sice jsou obchodní podmínky, ale jsou nepřehledné, nejsou v českém jazyce a hrubým způsobem porušují právní předpisy České republiky. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
@@ -2491,13 +2470,6 @@
   {
     "url": "newposti.online",
     "description": "Stránka zneužívá pořad Show Jana Krause a osobu prof. Jaroslava Flegra. Stránka láká spotřebitele k zaplacení za neznámou službu, provozovatel stránky je anonymní a zneužívá jména uvedených osoby bez jejich souhlasu. Viz: https://www.coi.cz/newposti/",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "advyprodej.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
