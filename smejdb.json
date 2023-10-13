@@ -1026,6 +1026,20 @@
     "sourceSlug": "sukl"
   },
   {
+    "url": "mancini.sk",
+    "description": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách Česká obchodní inspekce doporučuje důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "prezentify.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
     "url": "elamba.shop",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
@@ -2211,13 +2225,6 @@
   {
     "url": "hxhjk.myshopify.com",
     "description": "Internetový obchod je provozován subjektem se sídlem mimo členské státy Evropské unie, ačkoliv internetový obchod může u spotřebitelů vzbuzovat dojem, že je provozován subjektem se sídlem v České republice nebo Evropské unii, např. e-shop v českém jazyce je provozován subjektem se sídlem v Číně. Spotřebitelé nemohou uplatňovat svá práva, nebo je tato možnost významně ztížena.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "march-hot-news.sa.com",
-    "description": "Web zneužívá logo a design portálu Novinky.cz a snaží se vytvořit dojem, že přináší úžasnou zprávu o zázračném zbohatnutí. Celý systém na základě lživých informací žádá následně velmi citlivá data. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, vůči komu může nárokovat svá práva. Před vyplněním citlivých údajů na těchto stránkách varuje společnost Seznam.cz a Česká obchodní inspekce.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
