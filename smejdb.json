@@ -18,7 +18,13 @@
     "sourceSlug": "sukl"
   },
   {
-    "url": "cz.healthykonvert.online",
+    "url": "acarehealth.cz",
+    "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
+    "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
+    "sourceSlug": "sukl"
+  },
+  {
+    "url": "cz2.landonv.com",
     "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
     "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
     "sourceSlug": "sukl"
