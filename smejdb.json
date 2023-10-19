@@ -1,5 +1,11 @@
 [
   {
+    "url": "cz.zenidolv.com",
+    "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
+    "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
+    "sourceSlug": "sukl"
+  },
+  {
     "url": "cz.healthlabspharm.com",
     "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
     "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
@@ -1036,6 +1042,48 @@
     "sourceUrl": "https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv",
     "sourceName": "SÚKL - Webové stránky s nelegálními nabídkami léčiv",
     "sourceSlug": "sukl"
+  },
+  {
+    "url": "meindlbotycz.com",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "pumabotyvyprodej.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "reefcz.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "drschollscz.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "girohelma.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "oncloudboty.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
   },
   {
     "url": "mancini.sk",
