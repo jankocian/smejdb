@@ -11,7 +11,7 @@ module.exports = [
       const data = []
       const $ = cheerio.load(result)
 
-      $('body .article-content table > tbody > tr:not(:first-child) > td:nth-child(2)').each((index, element) => {
+      $('body .gov-container__content table > tbody > tr:not(:first-child) > td:nth-child(2)').each((index, element) => {
         const textArray = $(element).text().split(/,|;/).map(item => item.trim())
         const urls = textArray.filter(item => item.match(utils.urlRegex))
 
