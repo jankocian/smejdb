@@ -4,7 +4,7 @@ const cheerio = require('cheerio')
 // Definition of datasources to be scraped & scraping functions
 module.exports = [
   {
-    url: 'https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv',
+    url: 'https://sukl.gov.cz/prumysl/leciva/dozor-nad-reklamou/seznam-stranek-s-nelegalni-nabidkou-lecivych-pripravku/internetove-stranky-s-nelegalnimi-nabidkami-neschvalenych-pripravku/', // old: https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv
     name: 'SÚKL - Webové stránky s nelegálními nabídkami léčiv',
     slug: 'sukl',
     process: (result) => {
