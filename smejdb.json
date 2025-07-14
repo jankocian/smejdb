@@ -821,8 +821,22 @@
     "sourceSlug": "coi"
   },
   {
+    "url": "novak-brno.cz",
+    "description": "„Internetový obchod sice kontaktní údaje uvádí, nicméně v obchodních podmínkách se tyto údaje neshodují s údaji v nizozemském obchodním rejstříku. E-shop se též potýká s vysokým počtem stížností.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
     "url": "kklsmm.com",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "tagkot.com",
+    "description": "Internetový obchod je provozován subjektem se sídlem mimo členské státy Evropské unie. Ačkoliv jsou uvedeny kontaktní údaje, tak je nelze ověřit. E-shop se též potýká s vysokým počtem stížností.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
