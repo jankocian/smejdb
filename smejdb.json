@@ -822,6 +822,27 @@
     "sourceSlug": "sukl"
   },
   {
+    "url": "liagautier.cz",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "palivove-pelety.com",
+    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
+    "url": "mixmoa.com",
+    "description": "Internetový obchod sice kontaktní údaj uvádí, nicméně uvedený údaj se nepodařilo ověřit v dostupných rejstřících tuzemských podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
+    "sourceName": "ČOI - Rizikové e-shopy",
+    "sourceSlug": "coi"
+  },
+  {
     "url": "sensefit.shop",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
@@ -6737,41 +6758,6 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "prelblog.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "prelblog.com",
-    "description": "Stránka s nabídkou neznámého výrobku se správně zobrazí jen těm, kteří kliknou na reklamu, která se šíří zpravidla jako spam, či na Facebooku. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "mled.space",
-    "description": "Stránka s nabídkou neznámého výrobku se správně zobrazí jen těm, kteří kliknou na reklamu, která se šíří zpravidla jako spam, či na Facebooku. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "goldendood.shop",
-    "description": "Na stránky odkazuje reklama na Facebooku, která zneužívá jméno známého českého lékaře Jana Pirka, který se od tohoto webu distancuje. Stránky jsou anonymní a nabízejí pod smyšleným převratným vynálezem českého lékaře neznámý přípravek, viz https://www.coi.gov.cz/fb-pirk/",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "veryuseful.ml",
-    "description": "Na stránky odkazuje reklama na Facebooku, která zneužívá jméno známého českého lékaře Jana Pirka, který se od tohoto webu distancuje. Stránky jsou anonymní a nabízejí pod smyšleným převratným vynálezem českého lékaře neznámý přípravek, viz https://www.coi.gov.cz/pirk/",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "medgroup.club",
     "description": "Stránka zneužívá jméno známého českého lékaře Jana Pirka, který se od tohoto webu distancuje. Stránky jsou anonymní a nabízejí pod smyšleným převratným vynálezem českého lékaře neznámý přípravek, viz https://www.coi.gov.cz/medgroup-club/",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
@@ -6779,70 +6765,7 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "danskocz.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "pod-cenou.cz",
-    "description": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "doktoratonline.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "stayingsafe.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "pumacz.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "vsetop.cz",
-    "description": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "lottovyprodej.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "flaro.cz",
-    "description": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "wallvision.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "hellyhanseneshop.cz",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
@@ -6856,64 +6779,8 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "cz6.parazr.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "nobullobuv.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "paradisehost.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "kubishop.cz",
-    "description": "Nákupní galerie (zprostředkování ze zahraničí): Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "groundiescz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "procarsshopcz1.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "100-solarni-lampa-cz.com",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "vagabondeshop.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "zenkys.cz",
-    "description": "Nákupní galerie (zprostředkování ze zahraničí): Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
@@ -6926,20 +6793,6 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "vibramfive-fingers.cz",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "pfjhy.shop",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "rueporter.com",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
@@ -6947,35 +6800,7 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "mycpagetti2.com/t3wy/",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "cz1.suganp.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "tovar-promo.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "medi-marketz.biz/cs/",
-    "description": "Stránky údajné lékárny s volným prodejem přípravků a léků, některé jsou výhradně na lékařský předpis. Stránky jsou anonymní. Provozovatel webu nesplňuje zákonné podmínky pro provoz lékárny. Před nákupem na těchto stránkách varuje Česká obchodní inspekce.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "sananga.cz",
     "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
@@ -6996,99 +6821,8 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "dcshoescz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "polstarnakrk-cz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "obchodnicek.cz",
-    "description": "Nákupní galerie (zprostředkování ze zahraničí): Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "maxivyprodeje.cz",
-    "description": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem u dodavatele“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "maldero.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "lesni-valecek.myshopify.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "cistyodtok-cz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "obchodicek.cz",
     "description": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem u dodavatele“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "newherbalremedy.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "zdraveprsty-na-nohou-cz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "pulsnioxymetrcz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "kamagra-1stcz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "uyjiy.shop",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "jimisia.ru",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
@@ -7108,64 +6842,8 @@
     "sourceSlug": "coi"
   },
   {
-    "url": "solnadymka-cz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "lunzo.sk",
-    "description": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem u dodavatele“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "ceskarna.net",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "vibramboty.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "columbiacz.com",
-    "description": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
     "url": "abshuzhi.com",
     "description": "Stránka se otevře správně jen těm, kteří přijdou z reklamy na Facebooku (https://www.coi.gov.cz/shduolian-fb/) a následně se zobrazí lživý obsah o tom, že Ivo Lukačovič investuje 100 milionů Kč do zahraniční firmy (https://www.coi.gov.cz/abshuzhi/). Tato zpráva se nezakládá na pravdě. Na stránce jsou pak údaje o tom, komu a kam poslat peníze, respektive částku v kryptoměně Bitcoin, aby člověk také rychle zbohatl. Uvedená stránka navíc zneužívá loga českých televizních společností, aby vypadala důvěryhodněji. Česká obchodní inspekce před těmito stránkami varuje, provozovatel je neznámý.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "meek.cz",
-    "description": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem u dodavatele“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "fashion-mode.cz",
-    "description": "Nákupní galerie (zprostředkování ze zahraničí): Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
-    "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "sourceName": "ČOI - Rizikové e-shopy",
-    "sourceSlug": "coi"
-  },
-  {
-    "url": "coffeeboy.cz",
-    "description": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslání“, může to v praxi znamenat, že zboží se nachází v Číně a bude doručeno až za několik týdnů či měsíců. Řešení reklamací a/nebo vracení zboží může být pro spotřebitele obtížné. Případný nákup na těchto internetových stránkách doporučujeme důkladně uvážit a před jeho provedením velmi podrobně zkontrolovat dodací lhůty, obchodní podmínky a identitu a důvěryhodnost externího prodávajícího.",
     "sourceUrl": "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/",
     "sourceName": "ČOI - Rizikové e-shopy",
     "sourceSlug": "coi"
